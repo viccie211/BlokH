@@ -8,6 +8,6 @@ namespace projectshizzleblokh.Models
     public class Reservation
     {
         public DateTime Date { get; set; }
-        public Restaurant Restaurant{get;set;
+        public Restaurant Restaurant { get; set; }
     }
 }
